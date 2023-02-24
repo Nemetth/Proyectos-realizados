@@ -1,0 +1,118 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+nav a img{
+    width: 60px;
+}
+.nav-color{
+    background-color: rgb(91, 232, 200);
+}
+li{
+    font-size: 1.1rem;
+}
+div ul li:hover{
+    background-color:  rgb(232, 200,	91);
+    border-radius: 6px;
+    transition: background 0.3s;
+    color: black;
+}
+.section2{
+    background-image: url('../../IMG/Section1/background-section1.svg');
+}
+.section3{
+    background-color: rgb(91, 232, 200);
+}
+.pastilla1{
+
+    height: 7rem;
+}
+.section-testimonios{
+    background-color: rgb(249, 204, 207);
+    background-image: url(../../IMG/Testimonios/plane-02.svg);
+}
+.section-importancia{
+        background-image: url('../../IMG/Section1/background-section1.svg');
+}
+.card-effect:hover{
+    transform: scale(1.1);
+    transition: width,transform ease-in-out 0.5s;
+}
+p{
+    font-family: 'Montserrat', sans-serif !important;
+  }
+h1, h2, h3{
+    font-family: 'Noto Sans', sans-serif;
+  }
+.form-horizontal{
+    display:inline-block;
+    margin: auto ;
+    background-color: whitesmoke;
+    max-width: 28%!important;
+}
+input, textarea{
+    border-color: rgb(91, 232, 200) !important;
+}
+.button-form{
+    height: 45px;   
+    text-transform: uppercase;
+    background-color:   rgb(232, 200,	91);
+    cursor: pointer;
+    box-shadow: 0 2px 20px rgba(0, 0, 0, 0.2);
+}
+.section-form{
+    background-image: url(../../IMG/Form/ilustration-form.svg);
+    background-size: 100% 100%;
+    background-repeat:round;
+}
+.section-form-color{
+    background-color: rgb(91, 232, 200);
+}
+.social-img{
+    width: 40px;
+    height: auto;
+}
+
+footer{
+    background-color: rgb(55, 203, 173);
+
+
+}
+
+.cta-button{
+    background-color:  rgb(232, 200,	91);
+    border: none;
+/*     color: white; */
+    padding: 10px 28px;
+    text-align: center;
+    box-shadow: 0 2px 20px rgba(0, 0, 0, 0.2);
+}
+
+@media screen and (max-width: 1023px){
+    .form-horizontal{
+        display:inline-block;
+        margin: auto ;
+        background-color: whitesmoke;
+        max-width: 50%!important;
+    }
+    .card-effect:hover{
+        transform: none;
+        transition: width,transform ease-in-out 0.5s;
+    }
+}
+
+@media screen and (max-width: 767px){
+    .form-horizontal{
+        display:inline-block;
+        margin: auto ;
+        background-color: whitesmoke;
+        max-width: 90%!important;
+    }
+    .section-form{
+        background-image: none;
+    }
+    .card-effect:hover{
+        transform: none;
+        transition: width,transform ease-in-out 0.5s;
+    }
+}

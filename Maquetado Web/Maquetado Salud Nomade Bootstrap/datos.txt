@@ -1,0 +1,11 @@
+Escuela de Arte Multimedial Da Vinci
+CARRERA: Diseño y Programación Web
+MATERIA: Interacción con Dispositivos Móviles
+TRABAJO PRÁCTICO: Trabajo Practico 2
+PROFESOR: Carlos Ferrer
+ALUMNO: TOMÁS CAHUE
+CUATRIMESTRE: 2do Cuatrimestre
+COMISIÓN: dwn2ap
+TURNO: Noche 
+FECHA DE ENTREGA:3/12/2022
+URL DEL SITIO:  https://venerable-meerkat-395b80.netlify.app/

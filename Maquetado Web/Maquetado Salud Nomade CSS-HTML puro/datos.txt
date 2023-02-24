@@ -1,0 +1,11 @@
+Escuela de Arte Multimedial Da Vinci
+CARRERA: Diseño y Programación Web
+MATERIA: Interacción con Dispositivos Móviles
+TRABAJO PRÁCTICO: Trabajo Practico 1
+PROFESOR: Carlos Ferrer
+ALUMNO: TOMÁS CAHUE
+CUATRIMESTRE: 2do Cuatrimestre
+COMISIÓN: dwn2ap
+TURNO: Noche 
+FECHA DE ENTREGA: 23/10/2022
+URL DEL SITIO: https://curious-dolphin-465950.netlify.app/

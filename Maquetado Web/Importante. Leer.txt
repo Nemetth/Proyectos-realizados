@@ -1,0 +1,7 @@
+Ambos sitios fueron creados para la materia "Interacción con dispositivos móbiles. La diferencia entre ambos 
+radica en que uno está creado utilizando CSS-HTML puro y el otro está hecho en Bootstrap. En ambos casos, los 
+sitios son responsive y fueron maquetados siguiendo la lógica del mobile first.
+No estaba permitido el uso de código javascript salvo los necesarios para ejecutar los componentes de Bootstrap. 
+Tampoco se realizaron correcciones posteriores a la entrega del trabajo, ya que se priorizó avanzar con otros
+proyectos.
+Herramientas: Visual Studio Code.
