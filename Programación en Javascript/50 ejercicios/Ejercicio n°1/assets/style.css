@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
+*{
+    box-sizing: border-box;
+}
+
+
+
+
+
+body{
+    font-family: 'Muli', sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    overflow: hidden;
+    margin: 0;
+}
+.container{
+    display:flex;
+    width: 100vw;
+}
+
+.panel{
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 80vh;
+    border-radius: 40px;
+    color: #fff;
+    cursor: pointer;
+    flex: .5;
+/*     margin: 0.5px; */
+    position: relative;
+    -webkit-transition: all 600ms ease-in;
+}
+
+.panel h3{
+    font-size: 4rem;
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    margin: 0;
+    opacity: 0;
+}
+
+.panel.active{
+    flex: 5
+}
+
+.panel.active h3{
+    opacity: 1;
+    transition: opacity 0.3s ease-in 0.4s;;
+}
+
+@media (max-width: 480px) {
+    .container {
+      width: 100vw;
+    }
+  
+    .panel:nth-of-type(4),
+    .panel:nth-of-type(5) {
+      display: none;
+    }
+  }
+
+
+
+
+
+
+.img1{
+    background-image: url(img/congreso.webp)
+}
+
+.img2{
+    background-image: url('img/casa\ rosada.webp')
+}
+
+.img3{
+    background-image: url('img/planetario.jpg')
+}
+.img4{
+    background-image: url('img/caminitojpg.jpg')
+}
+.img5{
+    background-image: url('img/retiro.webp')
+}
