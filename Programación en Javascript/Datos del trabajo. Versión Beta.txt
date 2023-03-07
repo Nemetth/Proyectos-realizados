@@ -1,7 +1,6 @@
-Este sitio web es la versión Beta del final para la materia programación 1. El mismo contempla varias restricciones
+Este sitio web responsive es la versión Beta del final para la materia programación 1. El mismo contempla varias restricciones
 en pos de ejercitar el uso del DOM. Ejemplo de esto es la prohibición absoluta del "innerHTML", lo cual implica una 
-extensión excesiva del código debido a la necesidad de crear elementos constantemente, así como el uso del "appendChild"
-Restan algunas funcionalidades como la validación, terminar el CSS, simplificar el código y ubicar los banners. 
+extensión excesiva del código debido a la necesidad de crear elementos constantemente, así como el uso del "appendChild" 
 Se incluye en la carpeta el prototipado del mismo.
 
 Funcionalidades del sitio web:
@@ -11,7 +10,7 @@ Funcionalidades del sitio web:
 ○ Cierre de la compra solicitando datos del pago y del cliente.
 ○ Banner con timmer y rotación aleatoria
 ○ Detalle del producto con galería
-○ Validación del formulario * PENDIENTE*
+○ Validación del formulario 
 ○ Detección de teclado (Tecla ESC en ventanas modales )
 ○ Uso de Local Storage
 
